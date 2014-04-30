@@ -1,4 +1,4 @@
-#!/bin/basg
+#!/bin/bash
 #Purpose = Backups
 #Created on 31-04-2014
 #Author = Guilherme Cardoso
